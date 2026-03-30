@@ -83,3 +83,4 @@ See the godoc for more examples.
 ## Bugs, Issues, Feedback
 
 Right here on GitHub: [https://github.com/rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker)
+Created by Jason Scott Heise
